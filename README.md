@@ -17,7 +17,7 @@ These are code examples showing how to call and utilize Interzoid's various Clou
 
 **GetPagePerformance.java** - Measures page load times or API call performance from 20+ global locations - visit the API Page: https://www.interzoid.com/services/globalpageload 
 
-**GetWeatherFromZip.java** - Retrieves temperature and other information about current weather conditions for a zip code - visit the API Page: https://www.interzoid.com/services/getweathercity
+**GetWeatherFromZip.java** - Retrieves temperature and other information about current weather conditions for a zip code - visit the API Page: https://www.interzoid.com/services/getweatherzip
 
 
 To register for your free **API Key** (a block of free API credits), visit here: https://www.interzoid.com/register  

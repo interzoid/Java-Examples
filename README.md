@@ -5,6 +5,8 @@ These are code examples showing how to call and utilize Interzoid's various Clou
 
 **GetFullNameMatchSimkey.java** - generates a similarity key to use to match/locate other similar individual names ("Thomas Johnson" & "Mr. Tom Johntsen", etc.) - visit the API Page: https://www.interzoid.com/services/getfullnamematch 
 
+**GetAddressMatchSimkey.java** - generates a similarity key to use to match/locate other similar individual addresses ("Thomas Johnson" & "Mr. Tom Johntsen", etc.) - visit the API Page: https://www.interzoid.com/services/getfullnamematch 
+
 **GetCurrencyRate.java** - Retrieves a real-time currency rate for 150+ global currencies - visit the API Page: https://www.interzoid.com/services/getcurrencyrate 
 
 **GetEmailInformation.java** - Retrieves email validity and several other data points for a given email address - visit the API Page: https://www.interzoid.com/services/getemailinfo 

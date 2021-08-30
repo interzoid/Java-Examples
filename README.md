@@ -9,6 +9,8 @@ These are code examples showing how to call and utilize Interzoid's various Clou
 
 **GetCurrencyRate.java** - Retrieves a real-time currency rate for 150+ global currencies - visit the API Page: https://www.interzoid.com/services/getcurrencyrate 
 
+**GetCryptoPrice.java** - Retrieves a real-time cryptocurrency price (BTC, ETH, ADA, BNB, etc.) - visit the API Page: https://www.interzoid.com/services/getcryptoprice 
+
 **GetEmailInformation.java** - Retrieves email validity and several other data points for a given email address - visit the API Page: https://www.interzoid.com/services/getemailinfo 
 
 **GetGlobalNumberInformation.java** - Retrieves geographic information, mobile, language and other demographics for a global telephone number - visit the API Page: https://www.interzoid.com/services/getglobalnumberinfo

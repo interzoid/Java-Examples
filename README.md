@@ -3,22 +3,39 @@ These are code examples showing how to call and utilize Interzoid's various Clou
 
 **GetCompanyMatchSimkey.java** - generates a similarity key to use to match/locate other similar company names ("IBM" & "International Business Machines", etc.) - visit the API Page: https://www.interzoid.com/services/getcompanymatchadvanced  
 
+![CompanyMatch](images/CompanyMatchSimKeys.PNG)
+
 **GetFullNameMatchSimkey.java** - generates a similarity key to use to match/locate other similar individual names ("Thomas Johnson" & "Mr. Tom Johntsen", etc.) - visit the API Page: https://www.interzoid.com/services/getfullnamematch 
+
+![FullNameMatch](images/FullNameMatchSimKeys.PNG)
 
 **GetAddressMatchSimkey.java** - generates a similarity key to use to match/locate other similar addresses ("100 East Main Street" & "100 E Main St.", etc.) - visit the API Page: https://www.interzoid.com/services/getaddressmatchadvanced
 
+![AddressMatch](images/AddressMatchSimKeys.PNG)
+
 **GetCurrencyRate.java** - Retrieves a real-time currency rate for 150+ global currencies - visit the API Page: https://www.interzoid.com/services/getcurrencyrate 
+
+![CurrencyRate](images/CurrencyRate.PNG)
 
 **GetCryptoPrice.java** - Retrieves a real-time cryptocurrency price (BTC, ETH, ADA, BNB, etc.) - visit the API Page: https://www.interzoid.com/services/getcryptoprice 
 
+![CryptoPrice](images/CryptoPrices.PNG)
+
 **GetEmailInformation.java** - Retrieves email validity and several other data points for a given email address - visit the API Page: https://www.interzoid.com/services/getemailinfo 
+
+![EmailInformation](images/EmailInformation.PNG)
 
 **GetGlobalNumberInformation.java** - Retrieves geographic information, mobile, language and other demographics for a global telephone number - visit the API Page: https://www.interzoid.com/services/getglobalnumberinfo
 
+![GlobalPhone](images/GlobalPhone.PNG)
+
 **GetPagePerformance.java** - Measures page load times or API call performance from 20+ global locations - visit the API Page: https://www.interzoid.com/services/globalpageload 
+
+![GlobalPageLoad](images/GlobalPageLoad.PNG)
 
 **GetWeatherFromZip.java** - Retrieves temperature and other information about current weather conditions for a zip code - visit the API Page: https://www.interzoid.com/services/getweatherzip
 
+![Weather](images/Weather.PNG)
 
 To register for your free **API Key** (a block of free API credits), visit here: https://www.interzoid.com/register  
   

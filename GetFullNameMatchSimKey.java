@@ -4,7 +4,7 @@ import java.net.http.HttpClient;
 import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;	
 	
-public class GetFullNameMatchSimKey {
+class GetFullNameMatchSimKey {
 // Get API key at www.interzoid.com/register	
 
 	public static void main(String[] args) {
